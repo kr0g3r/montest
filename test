@@ -1,0 +1,11 @@
+#!/bin/bash
+
+##vlc --fullscreen test.avi
+
+xrandr | grep current refresh
+
+xrandr | grep \*
+
+sudo get-edid | parse-edid
+
+
